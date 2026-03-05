@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Tasty-Kitchen/static/css/main.ef37ff86.css",
+    "main.js": "/Tasty-Kitchen/static/js/main.a0871e4d.js",
+    "static/js/453.96453769.chunk.js": "/Tasty-Kitchen/static/js/453.96453769.chunk.js",
+    "static/media/slick.svg": "/Tasty-Kitchen/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Tasty-Kitchen/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Tasty-Kitchen/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Tasty-Kitchen/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Tasty-Kitchen/index.html",
+    "main.ef37ff86.css.map": "/Tasty-Kitchen/static/css/main.ef37ff86.css.map",
+    "main.a0871e4d.js.map": "/Tasty-Kitchen/static/js/main.a0871e4d.js.map",
+    "453.96453769.chunk.js.map": "/Tasty-Kitchen/static/js/453.96453769.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef37ff86.css",
+    "static/js/main.a0871e4d.js"
+  ]
+}
